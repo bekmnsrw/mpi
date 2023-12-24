@@ -1,0 +1,3 @@
+C:/Users/Ilya/CLionProjects/mpi/cmake-build-debug/CMakeFiles/mpi.dir
+C:/Users/Ilya/CLionProjects/mpi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ilya/CLionProjects/mpi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
